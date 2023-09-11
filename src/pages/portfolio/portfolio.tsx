@@ -12,7 +12,6 @@ const Portfolio: React.FC = () => {
         { name: "HTML5", rate: 3 },
         { name: "CSS", rate: 3 },
         { name: "User Interface Design", rate: 3 },
-        { name: "Object-Oriented Programming", rate: 3 },
         { name: "Bootstrap", rate: 3 },
     ]
 
