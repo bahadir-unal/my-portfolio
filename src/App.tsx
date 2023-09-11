@@ -1,12 +1,11 @@
-
 import { Layout, theme } from "antd"
 import { Route, Routes } from 'react-router-dom';
-import Home from "./pages/home/home"
-import Sidebar from './components/layout/sidebar';
-import Portfolio from "./pages/portfolio/portfolio"
-import Certificate from "./pages/certificate/certificate"
 
+import Certificate from "./pages/certificate/certificate"
 import Header from "./components/layout/header";
+import Home from "./pages/home/home"
+import Portfolio from "./pages/portfolio/portfolio"
+import Sidebar from './components/layout/sidebar';
 
 const { Content } = Layout;
 
